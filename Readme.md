@@ -1,5 +1,12 @@
 # Explore Generative AI with the Vertex AI Gemini API Skill Badge
 
+## Badge Image
+
+![Explore Generative AI with the Vertex AI Gemini API Badge](b.png)
+
+This badge signifies my successful completion of all tasks and showcases my ability to work with cutting-edge generative AI models in real-world applications. It reflects my understanding of multimodal AI systems and my ability to implement advanced techniques in text generation, video analysis, and function calling.
+
+
 ## Overview
 
 Congratulations on completing the **Explore Generative AI with the Vertex AI Gemini API Skill Badge**! This repository showcases my skills in text generation, image and video analysis, and function calling using the powerful Gemini API within Google Cloud’s Vertex AI platform. Throughout this badge, I have gained hands-on experience in working with generative AI models, multimodal content generation, and advanced techniques for integrating AI into real-world projects.
@@ -40,12 +47,6 @@ This repository is organized into four main folders, each dedicated to a differe
 - **Multimodal Content Analysis**: I explored how Gemini handles both visual and textual data, such as analyzing video content and providing detailed descriptions.
 - **Function Calling**: I enhanced my ability to integrate external functions into generative AI workflows, automating tasks like fetching data and triggering actions.
 - **Video Content Description**: I applied video analysis techniques, using Gemini’s AI to interpret and describe video content, offering deeper insights into multimedia data.
-
-## Badge Image
-
-![Explore Generative AI with the Vertex AI Gemini API Badge](b.png)
-
-This badge signifies my successful completion of all tasks and showcases my ability to work with cutting-edge generative AI models in real-world applications. It reflects my understanding of multimodal AI systems and my ability to implement advanced techniques in text generation, video analysis, and function calling.
 
 ## Conclusion
 
