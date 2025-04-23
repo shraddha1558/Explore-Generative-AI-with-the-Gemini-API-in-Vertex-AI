@@ -1,0 +1,50 @@
+# Gemini Explorer Challenge
+
+## Overview
+
+This project involves leveraging Gemini's cutting-edge AI capabilities to enhance the functionality of an AI-driven video content analysis platform. The goal was to implement three pivotal features using Gemini's APIs: text generation, function calls, and video content analysis. The objective was to demonstrate proficiency in using Gemini's APIs to automatically generate text, execute actions or commands, and describe video contents for production-ready applications.
+
+## Tasks Completed
+
+### Task 1: Generate Text Using Gemini
+
+- **Objective**: Call the Gemini API via Cloud Shell to generate text and confirm understanding of API calls.
+- **Approach**:
+  - Set up the necessary environment in Google Cloud.
+  - Made API calls to generate coherent and polished text from a prompt using the Gemini API.
+  - Validated the API integration and response format.
+
+### Task 2: Open the Notebook in Vertex AI Workbench
+
+- **Objective**: Open the `generative-ai-jupyterlab` instance in Google Cloud Console and work within the JupyterLab interface to proceed with further tasks.
+- **Approach**:
+  - Accessed Vertex AI Workbench in the Google Cloud Console.
+  - Opened the `generative-ai-jupyterlab` instance and launched the JupyterLab interface for code completion and testing.
+
+### Task 3: Create a Function Call Using Gemini
+
+- **Objective**: Implement function calls with Gemini to automate specific tasks like fetching weather information or interacting with external APIs based on user input.
+- **Approach**:
+  - Created function declarations with descriptions and parameters in Gemini’s API.
+  - Integrated Gemini’s function calling mechanism to execute specific actions based on the text prompts.
+  - Tested the function call generation and confirmed that it returned the correct function names and arguments for code execution.
+
+### Task 4: Describe Video Contents Using Gemini
+
+- **Objective**: Use Gemini to generate a description of video content, including identifying key information such as locations or notable features in the video.
+- **Approach**:
+  - Loaded video from a specified URI in Google Cloud Storage.
+  - Used the Gemini model to generate descriptive content by asking questions related to the video's content.
+  - Successfully retrieved a comprehensive description of the video, including answers to specific queries (e.g., what is shown in the video, top locations that resemble the video, etc.).
+
+## Key Features Implemented
+
+1. **Text Generation**: Utilized Gemini's generative AI capabilities to generate text responses to user queries, ensuring the ability to create coherent and relevant content.
+2. **Function Calling**: Integrated function calls to trigger actions or responses (such as retrieving weather data) based on text prompts. This showcases Gemini's ability to work seamlessly with external functions and APIs.
+3. **Video Content Analysis**: Demonstrated the use of Gemini for video content description, allowing the platform to interpret video data and generate insightful content descriptions automatically.
+
+## Conclusion
+
+This challenge successfully demonstrated the ability to integrate Gemini's APIs into a production-ready platform for video content analysis. By implementing features like text generation, function calling, and video content description, the platform is now capable of leveraging AI to automate content generation and provide meaningful insights from video data.
+
+These features align with the long-term goal of enhancing the platform’s functionality by enabling it to perform complex tasks such as generating content, executing commands, and analyzing video content using Gemini’s state-of-the-art AI capabilities.
